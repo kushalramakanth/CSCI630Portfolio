@@ -44,7 +44,7 @@ Hi, My name is Kushal Ramakanth and these are my contributions to CSCI 630 Pantr
 
 ### Sprint 4
 
-- Opened a new issue to take up unit testing for Donar page but closed the issue immediately when I realized that someone else had already done this. [(ChicoState/PantryNode/issues #210)]([Testing donar.js frontend · Issue #210 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/issues/210))
+- Opened a new issue to take up unit testing for Donar page but closed the issue immediately when I realized that someone else had already done this. [ChicoState/PantryNode/issues #210](https://github.com/ChicoState/PantryNode/issues/210))
 
 
 
