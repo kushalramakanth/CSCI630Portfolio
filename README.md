@@ -6,7 +6,7 @@ Hi, My name is Kushal Ramakanth and these are my contributions to CSCI 630 Pantr
 
 # Highlights
 
-- Developed Donar page using React and Material UI with pair programming collaboration with  [Murthy](https://github.com/murthy-001).  PR is [ChicoState/PantryNode/pull #105]([Feature/donar page static by kushalramakanth · Pull Request #105 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/pull/105)) and [ChicoState/PantryNode/pull #137]([Donor page improvements#77 by murthy-001 · Pull Request #137 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/pull/137)).
+- Developed Donar page using React and Material UI with pair programming collaboration with  [Murthy](https://github.com/murthy-001).  PR is [ChicoState/PantryNode/pull #105](https://github.com/ChicoState/PantryNode/pull/105) and [ChicoState/PantryNode/pull #137](https://github.com/ChicoState/PantryNode/pull/137).
 
 - Performed code review for various frontend features. 
 
