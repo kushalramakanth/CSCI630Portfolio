@@ -34,7 +34,7 @@ Hi, My name is Kushal Ramakanth and these are my contributions to CSCI 630 Pantr
 
 ### Sprint 3
 
-- Designed and implemented Donar page with pair programming with [Murthy](https://github.com/murthy-001), [(ChicoState/PantryNode/pull #105)](https://github.com/ChicoState/PantryNode/pull/105) and [(ChicoState/PantryNode/pull #137)](https://github.com/ChicoState/PantryNode/pull/137) for the issue for the issue [(ChicoState/PantryNode/issues #77)](https://github.com/ChicoState/PantryNode/issues/77)
+- Designed and implemented Donar page with pair programming with [Murthy](https://github.com/murthy-001), [(ChicoState/PantryNode/pull #105)](https://github.com/ChicoState/PantryNode/pull/105) and [(ChicoState/PantryNode/pull #137)](https://github.com/ChicoState/PantryNode/pull/137) for the issue [(ChicoState/PantryNode/issues #77)](https://github.com/ChicoState/PantryNode/issues/77)
 
 - Performed code Review on Feed section home view [(ChicoState/PantryNode/pull #99)](https://github.com/ChicoState/PantryNode/pull/99))
 
