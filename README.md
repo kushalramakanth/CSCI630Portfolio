@@ -26,7 +26,7 @@ Hi, My name is Kushal Ramakanth and these are my contributions to CSCI 630 Pantr
 
 ### Sprint 2
 
-- Performed code review on PR Sales report View [ChicoState/PantryNode/pull #92]([Sales Report View #78 by hardikpatil · Pull Request #92 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/pull/92))
+- Performed code review on PR Sales report View [ChicoState/PantryNode/pull #92](https://github.com/ChicoState/PantryNode/pull/92)
 
 - Got assigned with Murthy to work on Donar page. 
 
@@ -34,11 +34,11 @@ Hi, My name is Kushal Ramakanth and these are my contributions to CSCI 630 Pantr
 
 ### Sprint 3
 
-- Designed and implemented Donar page with pair programming with [Murthy](https://github.com/murthy-001), [(ChicoState/PantryNode/pull #105)]([Feature/donar page static by kushalramakanth · Pull Request #105 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/pull/105)) and [(ChicoState/PantryNode/pull #137)]([Donor page improvements#77 by murthy-001 · Pull Request #137 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/pull/137)) for the issue for the issue [(ChicoState/PantryNode/issues #77)]([Create add donor along with donor table view page · Issue #77 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/issues/77))
+- Designed and implemented Donar page with pair programming with [Murthy](https://github.com/murthy-001), [(ChicoState/PantryNode/pull #105)](https://github.com/ChicoState/PantryNode/pull/105) and [(ChicoState/PantryNode/pull #137)](https://github.com/ChicoState/PantryNode/pull/137) for the issue for the issue [(ChicoState/PantryNode/issues #77)](https://github.com/ChicoState/PantryNode/issues/77)
 
-- Performed code Review on Feed section home view [(ChicoState/PantryNode/pull #99)]([Feed section home view #76 by hardikpatil · Pull Request #99 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/pull/99))
+- Performed code Review on Feed section home view [(ChicoState/PantryNode/pull #99)](https://github.com/ChicoState/PantryNode/pull/99))
 
-- Performed code Review on Rebase of frontend branch with main branch [(ChicoState/PantryNode/pull #125)](https://github.com/ChicoState/PantryNode/pull/125[Rebase Frontend with main branch by hardikpatil · Pull Request #125 · ChicoState/PantryNode · GitHub](https://github.com/ChicoState/PantryNode/pull/125))
+- Performed code Review on Rebase of frontend branch with main branch [(ChicoState/PantryNode/pull #125)](https://github.com/ChicoState/PantryNode/pull/125)
 
 
 
