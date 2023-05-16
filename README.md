@@ -36,7 +36,7 @@ Hi, My name is Kushal Ramakanth and these are my contributions to CSCI 630 Pantr
 
 - Designed and implemented Donar page with pair programming with [Murthy](https://github.com/murthy-001), [(ChicoState/PantryNode/pull #105)](https://github.com/ChicoState/PantryNode/pull/105) and [(ChicoState/PantryNode/pull #137)](https://github.com/ChicoState/PantryNode/pull/137) for the issue [(ChicoState/PantryNode/issues #77)](https://github.com/ChicoState/PantryNode/issues/77)
 
-- Performed code Review on Feed section home view [(ChicoState/PantryNode/pull #99)](https://github.com/ChicoState/PantryNode/pull/99))
+- Performed code Review on Feed section home view [(ChicoState/PantryNode/pull #99)](https://github.com/ChicoState/PantryNode/pull/99)
 
 - Performed code Review on Rebase of frontend branch with main branch [(ChicoState/PantryNode/pull #125)](https://github.com/ChicoState/PantryNode/pull/125)
 
@@ -44,7 +44,7 @@ Hi, My name is Kushal Ramakanth and these are my contributions to CSCI 630 Pantr
 
 ### Sprint 4
 
-- Opened a new issue to take up unit testing for Donar page but closed the issue immediately when I realized that someone else had already done this. [ChicoState/PantryNode/issues #210](https://github.com/ChicoState/PantryNode/issues/210))
+- Opened a new issue to take up unit testing for Donar page but closed the issue immediately when I realized that someone else had already done this. [ChicoState/PantryNode/issues #210](https://github.com/ChicoState/PantryNode/issues/210)
 
 
 
