@@ -14,7 +14,7 @@ Hi, My name is Kushal Ramakanth and these are my contributions to CSCI 630 Pantr
 
 
 
-# # Timeline
+# Timeline
 
 ### Sprint 1
 
